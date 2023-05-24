@@ -12,6 +12,7 @@ import Excepciones.DiaIncorrectoException;
 import Excepciones.MesIncorrectoException;
 import Modelo.Persona;
 
+@SuppressWarnings("javadoc")
 public class Metodos {
 	
 	public boolean validarDNI(String dni) throws DNINoValidoException{
