@@ -10,6 +10,7 @@ public class Colegio {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		System.out.println("HOLA");
 		Metodos m = new Metodos();
 		Scanner sc = new Scanner(System.in);
 		int opcion = 0;
